@@ -210,8 +210,11 @@ public class HaikuScript : MonoBehaviour
         _selectedPhrases[_correctIx] = _haikus.PickRandom();
         ScreenText.text = _selectedPhrases[_currentIx];
 
-        Debug.LogFormat("[Haiku #{0}] These are the poems: {1}.", _moduleId, _selectedPhrases.Select(i => "“" + i + "”").Join(", "));
-        Debug.LogFormat("[Haiku #{0}] This is the correct haiku: {1}.", _moduleId, "“" + _selectedPhrases[_correctIx] + "”");
+        Debug.LogFormat("[Haiku #{0}] These are the poems:", _moduleId);
+        for (int i = 0; i < _selectedPhrases.Length; i++)
+            Debug.LogFormat("[Haiku #{0}] “{1}”", _moduleId, _selectedPhrases[i].Split('\n').Join(" - "));
+        Debug.LogFormat("[Haiku #{0}] This is the correct haiku:", _moduleId);
+        Debug.LogFormat("[Haiku #{0}] “{1}”", _moduleId, _selectedPhrases[_correctIx].Split('\n').Join(" - "));
         Debug.LogFormat("[Haiku #{0}] Please stop reading this.", _moduleId);
     }
 
