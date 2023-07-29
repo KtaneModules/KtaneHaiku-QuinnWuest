@@ -72,7 +72,6 @@ public class HaikuScript : MonoBehaviour
         "Here’s your Answering.\n“Nobody likes toasted nuts.”\nRoasted or toasted?",
         "Here’s A-C-B-F.\n“What do you mean you’re at soup?”\nI’M AT THE SOUP STORE",
         "I have your answer.\nBurgerking Call'd'police\nThat's correct. Great job!",
-        "Selling twelve old phones\nfor two thousand thirty three\nPolish zloty",
         "Here is Dictation.\n“Never gonna give you up...”\nI’ve just been Rickroll’d.",
         "I have Turn the Keys,\nbut the background has turned green.\nThat’s NOT Turn the Keys?",
         "I have Game of Life.\nI have checked it twenty times.\nI hope this is right.",
