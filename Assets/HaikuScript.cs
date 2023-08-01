@@ -149,7 +149,7 @@ public class HaikuScript : MonoBehaviour
         "Macro Memory.\nThere’s ten of them on the bomb.\nPress label seventeen.",
         "This is just a Sink,\nbut the drain pipe has turned black.\nI’m sure that means nothing.",
         "Where is my love?\nFeast your eyes, then let them melt.\nYou should start running.",
-        "Mr. Brendan King,\nPlease finish making Death Note!\nCheers, Apolo Simon.",
+        "Mr. Brendan King,\nPlease finish making Death Note!\nCheers, Fartlicker.",
         "It's a happy day.\nPlease welcome Glubtubbis Wepple\nto the orphanage.",
         "I have Colour Flash.\nOr do I? Nobody knows.\nThere’s eleven of them.",
         "This is the right one.\nNo need to read anymore.\nPress the submit button.",
