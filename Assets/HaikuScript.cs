@@ -109,8 +109,7 @@ public class HaikuScript : MonoBehaviour
         "Duck Konundrum stage.\nRemove vowels from duck name\nas a punishment.",
         "Doing Sysadmin?\nPlease enter the flavor text\ninto the module.",
         "I have Connect Four.\nI am one away from win.\nWhy can’t I just win?",
-        "I have a Murder.\nSuspects are Peacock, Plum, Green...",
-        "Wait, what was that sound?",
+        "I have a Murder.\nSuspects are Peacock, Plum, Green...\nWait, what was that sound?",
         "Binary is fun.\nWon’t you count thirteen with me?\nOne one zero one."
     };
     private static readonly string[] _fakes = new string[]
